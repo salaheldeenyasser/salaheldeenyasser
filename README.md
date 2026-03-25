@@ -16,7 +16,7 @@
   </a>
 </div>
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
@@ -79,7 +79,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/clickup/000000" height="60" alt="clickup logo"  />
 </div>
+
 # 📊 GitHub Stats:
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salaheldeenyasser&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=salaheldeenyasser&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
